@@ -17,3 +17,22 @@
 | USB Type C cable (data transfer)*****                                    | https://www.aliexpress.com/item/1005006031337441.html | Color: Black-1.5m                                     | 1.39           | 0        | 1            | 1.39  | ![USB_Type_C_cable_data_transfer](./screenshots/USB_Type_C_cable_data_transfer.png)                                                                                     |
 | Insulation Tape                                                          | https://www.aliexpress.com/item/1005002795219371.html | Color: black                                          | 1.79           | 0.86     | 1            | 2.65  | ![Insulation_Tape](./screenshots/Insulation_Tape.png)                                                                                                                   |
 | **TOTAL: 80.96 USD**                                                     |                                                       |                                                       |                |          |              |       |                                                                                                                                                                         |
+
+
+\*Total units that you will need to order from that specific AliExpress listing. It's not how many components you will need, it's how many to order! 
+For example the AliExpress 1N4148 diode listing has a minimum quantity of 100, so the total units required for the keyboard is 1 and not 64.
+\*\*Ordering keycaps is a bit different, you need to buy the amount you want and then send the seller a message with desired colors, sizes and amounts. For reference, this is how my message looked like:
+```
+32 * 1u DSA11 Deep Purple
+22 * 1u DSA12 Wathet
+16 * 1u DSA3 Yellow
+2 * 1.25u DSA11 Deep Purple
+2 * 1.5u DSA11 Deep Purple
+2 * 1.25u DSA16 Pink Mauve
+2 * 1.5u DSA16 Pink Mauve
+Total: 86
+```
+\*\*\*I already had below items at home or a colleague gave them to me. I made a suggestion what I would order if I didn't have those items but keep in mind that I didn't verify them.
+\*\*\*\*Any wire with 3 cores should be fine. This is just a random suggestion, explore a bit more and find the cable that fits you and your keyboard style. You can also buy `Braided Cable Sleeves` to make your cable even fancier.
+\*\*\*\*\*This cable says that it has 4 wires (cores) but I didn't verify it. If you order it and the keyboard doesn't work but the Pro Micro is on, try any other USB Type C cable that has data transfer capabilities
+
