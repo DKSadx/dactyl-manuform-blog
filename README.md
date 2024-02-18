@@ -1,6 +1,7 @@
 # Detailed guide on how to build your first Dactyl Manuform keyboard
 
 This is a repo for the blog: https://medium.com/@dkojovic/detailed-guide-on-how-to-build-your-first-dactyl-manuform-keyboard-a412630de76f
+
 Check out the blog for detailed explanation of the whole build process.
 
 ### Finished keyboard
@@ -16,6 +17,8 @@ Check out the blog for detailed explanation of the whole build process.
 Full list of parts can be found in the [parts](/parts) folder
 
 ### My layout
+
+You can find all the keymaps files in the [layout](/layout) folder
 
 #### Layer 0:
 
